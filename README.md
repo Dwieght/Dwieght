@@ -11,8 +11,10 @@
 - Facebook: https://www.facebook.com/DweightDewey
 
 - 😄 Pronouns: He/His/Him
-
-<section class="d-flex justify-content-center">
-  <a href="https://app.daily.dev/dweightfuentes"><img src="https://api.daily.dev/devcards/4d2348f8dec942d9b0de456de82bce6f.png?r=cqs" width="400" alt="Dweight Dewey Fuentes's Dev Card"/></a>
+<br>
+<section class="row d-flex justify-content-center w-100">
+  <section class="text-center d-flex justify-content-center">
+      <a href="https://app.daily.dev/dweightfuentes"><img src="https://api.daily.dev/devcards/4d2348f8dec942d9b0de456de82bce6f.png?r=cqs" width="400" alt="Dweight   Dewey Fuentes's Dev Card"/></a>
+    </section>
 </section>
 
