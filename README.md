@@ -1,9 +1,9 @@
 ### Hi there 👋
 <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous">
-- 🔭 I’m currently working on 3 Projects
-- 🌱 I’m currently learning REACT
-- 👯 I’m looking to collaborate on Front-End Development
-- 🤔 I’m looking for help with ...
+- 🔭 I’m currently working on 3 Projects <br>
+- 🌱 I’m currently learning REACT <br>
+- 👯 I’m looking to collaborate on Front-End Development <br>
+- 🤔 I’m looking for help with ... <br>
 - 📫 How to reach me: <br>
 - LinkedIn: https://www.linkedin.com/in/dwieght-dewey-fuentes-692078200/ <br>
 - Instagram: https://www.instagram.com/aki_brightstar/ <br>
@@ -14,7 +14,7 @@
 <br>
 <section class="row d-flex justify-content-center w-100">
   <section class="text-center d-flex justify-content-center">
-      <a href="https://app.daily.dev/dweightfuentes"><img src="https://api.daily.dev/devcards/4d2348f8dec942d9b0de456de82bce6f.png?r=cqs" width="400" alt="Dweight   Dewey Fuentes's Dev Card"/></a>
+      <a href="https://app.daily.dev/dweightfuentes"><img class="text-center d-flex justify-contet-center" src="https://api.daily.dev/devcards/4d2348f8dec942d9b0de456de82bce6f.png?r=cqs" width="400" alt="Dweight   Dewey Fuentes's Dev Card"/></a>
     </section>
 </section>
 
