@@ -1,6 +1,5 @@
 ### Hi there 👋
-
-<!--
+<a href="https://app.daily.dev/dweightfuentes"><img src="https://api.daily.dev/devcards/4d2348f8dec942d9b0de456de82bce6f.png?r=mgq" width="400" alt="Dweight Dewey Fuentes's Dev Card"/></a>
 **Dwieght/Dwieght** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -17,5 +16,5 @@ Facebook: https://www.facebook.com/DweightDewey
 
 - 😄 Pronouns: He/His/Him
 - ⚡ Fun fact: ...
--->
-<a href="https://app.daily.dev/dwieghtdeweyfuentes"><img src="https://api.daily.dev/devcards/4d2348f8dec942d9b0de456de82bce6f.png?r=cza" width="400" alt="Dweight Dewey Fuentes's Dev Card"/></a>
+
+
