@@ -5,10 +5,10 @@
 - 👯 I’m looking to collaborate on Front-End Development
 - 🤔 I’m looking for help with ...
 - 📫 How to reach me: <br>
-- LinkedIn: https://www.linkedin.com/in/dwieght-dewey-fuentes-692078200/
-- Instagram: https://www.instagram.com/aki_brightstar/
-- Twitter: https://twitter.com/DwieghtFuentes
-- Facebook: https://www.facebook.com/DweightDewey
+- LinkedIn: https://www.linkedin.com/in/dwieght-dewey-fuentes-692078200/ <br>
+- Instagram: https://www.instagram.com/aki_brightstar/ <br>
+- Twitter: https://twitter.com/DwieghtFuentes <br>
+- Facebook: https://www.facebook.com/DweightDewey <br>
 
 - 😄 Pronouns: He/His/Him
 <br>
